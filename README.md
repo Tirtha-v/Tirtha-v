@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tirtha Vinchurkar
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning complexity and dynamics systems
+- 👀 I’m interested in Chemical Engineering and Data Analytics
+- 🌱 I’m currently learning Complexity and Dynamics systems
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me..mail me on tsvin642@gmail.com
 
